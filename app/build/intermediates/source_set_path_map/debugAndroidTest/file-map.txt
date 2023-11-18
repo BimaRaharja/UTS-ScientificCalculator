@@ -1,0 +1,4 @@
+com.example.scientificcalc.test.app-androidTest-0 D:\Project_Android_Studio\uts\ScientificCalc-master\app\build\generated\res\resValues\androidTest\debug
+com.example.scientificcalc.test.app-mergeDebugAndroidTestResources-1 D:\Project_Android_Studio\uts\ScientificCalc-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.scientificcalc.test.app-mergeDebugAndroidTestResources-2 D:\Project_Android_Studio\uts\ScientificCalc-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.scientificcalc.test.app-merged_res-3 D:\Project_Android_Studio\uts\ScientificCalc-master\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\1a695733798a4054ea8e5c085647a1c4\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\bimay\.gradle\caches\transforms-3\741b7274a38610faa4f597bb6eca83c1\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\bimay\.gradle\caches\transforms-3\f735af64c2df814ef3c68ff07f2271d4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\bimay\.gradle\caches\transforms-3\3ef07c3603a5a1e0af6f123438d68795\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\c472ace0e987510e445d575033d1812e\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\bimay\.gradle\caches\transforms-3\31370bee5a22ec75fe4730f8f1afc845\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\bimay\.gradle\caches\transforms-3\8d1330a12f595f4a1c1bef33f9442f6f\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\bimay\.gradle\caches\transforms-3\7be20a629a757417293ef9a0a7aac1dd\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\b945e400679cf00f3fbafd766ec2d9bb\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\1c256b368d8e80d9ca9b4192d541d21a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\dafcdf36fe4ec4b73d49e20d3c2cc2e1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\555008a973a0004b8123e92f455bebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bimay\.gradle\caches\transforms-3\d80d7307a18f981d3d77efc86cb5942e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\ef8383adf1de2a5779bf3c44ccc8067d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\a9ced372da4ab96a70da27b2dad77ca7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\241a5fe61965d4b21965a82d1f404608\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\6b194e6b1ed563db935955f4bf3d3642\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\3f7f338883690dbe043e3ae0b797afc6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\21a28d7e3b653ff2fc898f054c1d1f5e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\d90b90c672c5594a08e90966bc44b12b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\0ce80973d3cf54a62503e9d9b1daca40\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\75414088680e6da54ee01a78c7f26110\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\249e298b426be85bb9f43650587d750d\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\b693289b37479b1187025f9f18538425\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\82b8e14b8731299f37b21ff2c52b61e0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\a0bf780f4f7fe7f6453ed4d0f9c22af5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\049d88329b15fbb1a04cb05e6f8e4efe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\c0ad8af3d745d9489a9fc9a7283624ff\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bimay\.gradle\caches\transforms-3\bb06decaf47f5b4afd479b3fb8cece0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\7a64c9f3ca1c0f4a54e923a628480cc6\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\acd9146963990dc28b31113632d35d78\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bimay\.gradle\caches\transforms-3\e089987814724130fc9d0be6516cc95e\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ed6fc3c81100ad5d875091e470df29e4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\b230007ae1092d401ce5777653ae775a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\bd618b694ca3742e61b84c41c658d07a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\971f674bc155a8c4cda897c467b269a5\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\7e8335a9200b00149598e7dc60775426\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:5:5-29:19
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\bimay\.gradle\caches\transforms-3\741b7274a38610faa4f597bb6eca83c1\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\bimay\.gradle\caches\transforms-3\741b7274a38610faa4f597bb6eca83c1\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\bimay\.gradle\caches\transforms-3\f735af64c2df814ef3c68ff07f2271d4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\bimay\.gradle\caches\transforms-3\f735af64c2df814ef3c68ff07f2271d4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\0ce80973d3cf54a62503e9d9b1daca40\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\0ce80973d3cf54a62503e9d9b1daca40\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\049d88329b15fbb1a04cb05e6f8e4efe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\049d88329b15fbb1a04cb05e6f8e4efe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\0ce80973d3cf54a62503e9d9b1daca40\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:9:9-40
+	android:allowBackup
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:12:9-52
+	android:dataExtractionRules
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.scientificcalc.MoveActivity
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:15:13-41
+activity#com.example.scientificcalc.MainActivity
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:18:13-41
+activity#com.example.scientificcalc.SplashScreenActivity
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:21:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\1a695733798a4054ea8e5c085647a1c4\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\1a695733798a4054ea8e5c085647a1c4\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\bimay\.gradle\caches\transforms-3\741b7274a38610faa4f597bb6eca83c1\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\bimay\.gradle\caches\transforms-3\741b7274a38610faa4f597bb6eca83c1\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\bimay\.gradle\caches\transforms-3\f735af64c2df814ef3c68ff07f2271d4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\bimay\.gradle\caches\transforms-3\f735af64c2df814ef3c68ff07f2271d4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\bimay\.gradle\caches\transforms-3\3ef07c3603a5a1e0af6f123438d68795\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\bimay\.gradle\caches\transforms-3\3ef07c3603a5a1e0af6f123438d68795\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\c472ace0e987510e445d575033d1812e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\c472ace0e987510e445d575033d1812e\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\bimay\.gradle\caches\transforms-3\31370bee5a22ec75fe4730f8f1afc845\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\bimay\.gradle\caches\transforms-3\31370bee5a22ec75fe4730f8f1afc845\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\bimay\.gradle\caches\transforms-3\8d1330a12f595f4a1c1bef33f9442f6f\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\bimay\.gradle\caches\transforms-3\8d1330a12f595f4a1c1bef33f9442f6f\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\bimay\.gradle\caches\transforms-3\7be20a629a757417293ef9a0a7aac1dd\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\bimay\.gradle\caches\transforms-3\7be20a629a757417293ef9a0a7aac1dd\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\b945e400679cf00f3fbafd766ec2d9bb\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\b945e400679cf00f3fbafd766ec2d9bb\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\1c256b368d8e80d9ca9b4192d541d21a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\1c256b368d8e80d9ca9b4192d541d21a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\dafcdf36fe4ec4b73d49e20d3c2cc2e1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\dafcdf36fe4ec4b73d49e20d3c2cc2e1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\555008a973a0004b8123e92f455bebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\555008a973a0004b8123e92f455bebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bimay\.gradle\caches\transforms-3\d80d7307a18f981d3d77efc86cb5942e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bimay\.gradle\caches\transforms-3\d80d7307a18f981d3d77efc86cb5942e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\ef8383adf1de2a5779bf3c44ccc8067d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\ef8383adf1de2a5779bf3c44ccc8067d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\a9ced372da4ab96a70da27b2dad77ca7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\a9ced372da4ab96a70da27b2dad77ca7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\241a5fe61965d4b21965a82d1f404608\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\241a5fe61965d4b21965a82d1f404608\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\6b194e6b1ed563db935955f4bf3d3642\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\6b194e6b1ed563db935955f4bf3d3642\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\3f7f338883690dbe043e3ae0b797afc6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\3f7f338883690dbe043e3ae0b797afc6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\21a28d7e3b653ff2fc898f054c1d1f5e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\21a28d7e3b653ff2fc898f054c1d1f5e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\d90b90c672c5594a08e90966bc44b12b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\d90b90c672c5594a08e90966bc44b12b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\0ce80973d3cf54a62503e9d9b1daca40\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\bimay\.gradle\caches\transforms-3\0ce80973d3cf54a62503e9d9b1daca40\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\75414088680e6da54ee01a78c7f26110\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\75414088680e6da54ee01a78c7f26110\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\249e298b426be85bb9f43650587d750d\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\249e298b426be85bb9f43650587d750d\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\b693289b37479b1187025f9f18538425\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\b693289b37479b1187025f9f18538425\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\82b8e14b8731299f37b21ff2c52b61e0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\82b8e14b8731299f37b21ff2c52b61e0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\a0bf780f4f7fe7f6453ed4d0f9c22af5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\a0bf780f4f7fe7f6453ed4d0f9c22af5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\049d88329b15fbb1a04cb05e6f8e4efe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bimay\.gradle\caches\transforms-3\049d88329b15fbb1a04cb05e6f8e4efe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\c0ad8af3d745d9489a9fc9a7283624ff\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\c0ad8af3d745d9489a9fc9a7283624ff\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bimay\.gradle\caches\transforms-3\bb06decaf47f5b4afd479b3fb8cece0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bimay\.gradle\caches\transforms-3\bb06decaf47f5b4afd479b3fb8cece0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\7a64c9f3ca1c0f4a54e923a628480cc6\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\bimay\.gradle\caches\transforms-3\7a64c9f3ca1c0f4a54e923a628480cc6\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\acd9146963990dc28b31113632d35d78\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\acd9146963990dc28b31113632d35d78\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bimay\.gradle\caches\transforms-3\e089987814724130fc9d0be6516cc95e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\bimay\.gradle\caches\transforms-3\e089987814724130fc9d0be6516cc95e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ed6fc3c81100ad5d875091e470df29e4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ed6fc3c81100ad5d875091e470df29e4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\b230007ae1092d401ce5777653ae775a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\b230007ae1092d401ce5777653ae775a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\bd618b694ca3742e61b84c41c658d07a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\bd618b694ca3742e61b84c41c658d07a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\971f674bc155a8c4cda897c467b269a5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\971f674bc155a8c4cda897c467b269a5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\7e8335a9200b00149598e7dc60775426\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\bimay\.gradle\caches\transforms-3\7e8335a9200b00149598e7dc60775426\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project_Android_Studio\uts\ScientificCalculator(Bima&Audrey)\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\7c3611b3bbccbe3e597ccf9fb5aacf87\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\bimay\.gradle\caches\transforms-3\ec6c7fc5046c7ec3f494cf6345f7b05f\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bimay\.gradle\caches\transforms-3\3b01779d02ab8d1b812b6db345e67714\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

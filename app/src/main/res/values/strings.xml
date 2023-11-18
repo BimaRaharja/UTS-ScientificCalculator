@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kalkulator Scientific Bimaudrey</string>
+    <string name="isiabout">Project ini bertujuan untuk memperluas fungsionalitas sebuah kalkulator ilmiah yang dapat dioperasikan di platform Android, menggunakan lingkungan pengembangan Android Studio. Kalkulator ini dilengkapi dengan fitur-fitur seperti perhitungan trigonometri, logaritma, Akar Pangkat, Pi, dan kemampuan untuk menyimpan riwayat perhitungan. Tujuan utama Project ini adalah memberikan pengguna pengalaman kalkulasi yang komprehensif dan efisien.</string>
+</resources>
